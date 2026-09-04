@@ -1,6 +1,7 @@
-** Problem No: ** 82. Remove Duplicates from Sorted List II(Medium)
-# LINK:[ CLICK HERE ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+# Problem No:  82. Remove Duplicates from Sorted List II(Medium)
+** LINK: ** [ CLICK HERE ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 
+# Solution
 ```cpp
 /**
  * Definition for singly-linked list.
