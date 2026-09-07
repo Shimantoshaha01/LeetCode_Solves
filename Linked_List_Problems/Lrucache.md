@@ -1,6 +1,6 @@
 # Problem No: 146 - LRU CACHE (MEDIUM)
 
-** Link ** [Click here] (https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)
+** Link ** [Click here](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)
 
 # Solution
 
