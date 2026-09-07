@@ -1,5 +1,5 @@
 # Problem NO : Power of two: 231- Power of two (Easy)
-** Link: ** [Link here ](https://leetcode.com/problems/power-of-two/description/)
+** Link: ** [Click here ](https://leetcode.com/problems/power-of-two/description/)
 # Solution 
 
 ```cpp
