@@ -1,5 +1,5 @@
 # Probelm No: 86 -Partition list (Medium)
-** Link ** [Click here] (https://leetcode.com/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150)
+** Link ** [Click here](https://leetcode.com/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150)
 
 # Solution:
 ```cpp
