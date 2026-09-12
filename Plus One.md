@@ -2,6 +2,7 @@
 
 ** Link : ** [Click here](https://leetcode.com/problems/plus-one/)
 
+```cpp
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
