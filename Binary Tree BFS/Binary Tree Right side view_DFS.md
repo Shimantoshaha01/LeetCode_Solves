@@ -5,7 +5,7 @@
 # Solution made by using DFS
 
 
-```
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
