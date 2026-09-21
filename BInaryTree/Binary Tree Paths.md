@@ -1,6 +1,6 @@
 # Problem No:  257. Binary Tree Paths (Easy)
 
-** Link: ** [CLick here](https://leetcode.com/problems/binary-tree-paths/description/)
+**Link:** [CLick here](https://leetcode.com/problems/binary-tree-paths/description/)
 
 ```cpp
 /**
