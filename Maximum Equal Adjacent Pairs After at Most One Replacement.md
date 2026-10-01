@@ -1,6 +1,6 @@
-# Problem No:  Maximum Equal Adjacent Pairs After at Most One Replacement(Medium)
+# Problem No:  4066.Maximum Equal Adjacent Pairs After at Most One Replacement(Medium)
 
-
+**Link:**[Click here](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/description/)
 ```cpp
 class Solution {
 public:
