@@ -1,4 +1,6 @@
-# Problem NO: Rearrange Array by Removing Distinct Values(Easy)
+# Problem NO: 4065.Rearrange Array by Removing Distinct Values(Easy)
+
+**Link:** [Click here](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/description/)
 
 ```cpp
 class Solution {
