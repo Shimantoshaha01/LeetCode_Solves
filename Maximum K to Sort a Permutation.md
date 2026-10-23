@@ -1,0 +1,23 @@
+# Problem No: 3644. Maximum K to Sort a Permutation(Medium)
+
+**Link:** [CLick here](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/?envType=daily-question&envId=2026-10-23)
+
+```cpp
+class Solution {
+public:
+    int sortPermutation(vector<int>& nums) {
+        int n = nums.size();
+        int ans = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i) {
+                if (ans == -1)
+                    ans = nums[i];
+                else {
+                    ans &= nums[i];
+                }
+            }
+        }
+        return max(ans, 0);
+    }
+};
